@@ -21,4 +21,4 @@ Demo: four servo motor drivers with i2c interface : i2cservo4
 
 Use a 74HCT04 (hex inverterS) to convert 3v cpld output to 5v to command servo motors.
 
-![mock up](https://github.com/tirfil/vhdServo/images/SERVO.JPG)
+![mock up](https://github.com/tirfil/vhdServo/blob/master/images/SERVO.JPG)
